@@ -7,9 +7,8 @@
 </head>
 
 <body>
-  <h1>Mauris Tincidunt</h1>
-  <p> Software Design Writing Assignment 1
-As humans, we interact with software more than we realize, and it is a fundamental
+  <h1>Software Design Writing Assignment 1</h1>
+  <p> As humans, we interact with software more than we realize, and it is a fundamental
 aspect of living as a human. One example of software that stands out to me and I think is
 designed with extreme intricacy and care is a Tesla car. The user-friendly design is key in my
 opinion, it’s extremely easy to do basic tasks, such as switching on the air conditioning, whereas
@@ -27,7 +26,7 @@ design can be, even though it may seem like only the features of a car matter, t
 displays it may be even more important. In an era where technology affects every aspect of our
 lives, clear and aesthetically appealing software design becomes crucial. It improves usability,
 enhances safety, and ultimately shapes how we engage with technology. This makes software
-design as important as the functionality itself.</p>
+design as important as the functionality itself. </p>
 </body>
 
 </html>
