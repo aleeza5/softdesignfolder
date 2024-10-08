@@ -1,4 +1,4 @@
-## Software Design Writing Assignment 1
+## README
 
 <!--
 **aleeza5/aleeza5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
